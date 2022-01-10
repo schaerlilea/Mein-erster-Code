@@ -1,2 +1,2 @@
 # Mein-erster-Code
-Notendurchschnittsrechner auf Python programmiert
+Auf Python programmierter Notendurchschnittsrechner
